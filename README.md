@@ -5,9 +5,16 @@ After trying different tools (like Evernote, Google Notes, Trello, Notion and No
 Ronye
 
 ## Hot List :fire:
-Comming soon :rocket:
 
-## Web Summary :bookmark_tabs:
+* [Value Proposition](hot-list/VALUE_PROPOSITION.md)
+* [Community Building](hot-list/COMMUNITY_BUILDING.md)
+* [Product](hot-list/PRODUCT.md)
+* [Funding](hot-list/FUNDING.md)
+* [Growth](hot-list/GROWTH.md)
+* [Methods](hot-list/METHODS.md)
+* [Management](hot-list/MANAGEMENT.md)
+
+## Topics :bookmark_tabs:
 * [Management](topics/MANAGEMENT.md)
 * [Science](topics/SCIENCE.md)
 * [Startups](topics/STARTUPS.md)
