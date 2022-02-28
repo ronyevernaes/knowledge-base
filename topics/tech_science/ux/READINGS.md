@@ -1,0 +1,15 @@
+# Readings
+
+- [ ] [How to Motivate Users to Complete a Difficult Task](https://moduscreate.com/blog/motivate-users-complete-difficult-task/)
+- [ ] [Sorry UX, the party’s over.](https://medium.com/dallas-design-sprints/sorry-ux-the-partys-over-ccff2e0b4d0)
+- [ ] [Invest in Customer Research: Defending Your Customer’s Design Miranda Rights](https://moduscreate.com/blog/customer-research-defending-customers-design-miranda-rights/)
+- [ ] [Are you designing a product or an experience?](https://uxdesign.cc/are-you-designing-a-product-or-an-experience-306207534855)
+- [ ] [UX has bad UX](https://uxdesign.cc/ux-has-pretty-bad-ux-fd2702e5c22a)
+- [ ] [Menus, Metaphors and Materials: Milestones of User Interface Design](https://medium.com/@borism/menus-metaphors-and-materials-milestones-of-user-interface-design-f3f75481c46c)
+- [ ] [20 Dashboard Design Principles & Best Practices To Enhance Your Data Analysis](https://www.datapine.com/blog/dashboard-design-principles-and-best-practices/)
+- [ ] [The problem with autocomplete and how to fix it](https://dev.to/savvasstephnds/the-problem-with-autocomplete-and-how-to-fix-it-2ill)
+- [ ] [A beginner's guide to applying color in UI design](https://dev.to/georgedoescode/a-beginner-s-guide-to-applying-color-in-ui-design-3904)
+- [ ] [The Scary Future of Instagram](https://growth.design/case-studies/instagram-monetization/)
+- [ ] [We categorized over 500 user onboarding experiences into 8 UI/UX patterns](https://www.appcues.com/blog/user-onboarding-ui-ux-patterns)
+- [ ] [Best Practices for Onboarding](http://babich.biz/best-practices-for-onboarding/)
+- [ ] []()
