@@ -1,6 +1,6 @@
-# Reading List
+# Knowledge Base
 
-After trying different tools (like Evernote, Google Notes, Trello, Notion and Notepad++), for bookmarking and tracking my reading list, I decided to move for a system more agnostic and sharable, so here we are: Markdown + Git repository. Enjoy!
+After trying different tools (like Evernote, Google Notes, Trello, Notion and Notepad++), for bookmarking and tracking my knowledge management, I decided to move for a system more agnostic, open and easy to share, so here we are: Markdown + Git repository. Enjoy!
 
 Ronye
 

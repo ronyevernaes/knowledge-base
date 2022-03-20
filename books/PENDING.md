@@ -1,46 +1,49 @@
 # Books I Want to Read :books:
 
+These are the books I'm planning to read, sorted by most probably to be read in the short term, (I'm always shifting them).
+
 | Title | Author | Category | Language |
 | --- | --- | --- | --- |
-| Nadie te entiende y que hacer al respecto | - | - | :es: |
-| El poder de la introversion | - | - | :es: |
+| The 10x Rule | - | - | :en: |
 | El patron Bitcoin | - | - | :es: |
-| Essentialism | - | - | :uk: |
-| Mini habitos | - | - | - |
+| You ^ 2 ** | - | - | - |
 | Four Thousands Weeks | - | - | :uk: |
-| Models | - | - | :uk: |
-| Never split the difference | - | - | :uk: |
-| Die with Zero | - | - | :uk: |
-| Happy Sexy Millonaire | - | - | :uk: |
-| Can't Hurt Me | - | - | :uk: |
-| Educated | - | - | :uk: |
-| How not to die alone | - | - | :uk: |
 | The Millonaire Fastlane | - | - | :uk: |
-| Traction | - | - | - |
-| It doesn't have to be crazy at work | - | - | - |
 | The Great CEO Within | - | - | - |
 | The New One Minute Manager | - | - | - |
 | The Four Obsessions of an Extraordinary Executive | - | - | - |
+| Nadie te entiende y que hacer al respecto | - | - | :es: |
+| El poder de la introversion | - | - | :es: |
+| Essentialism | - | - | :uk: |
+| The Edinburg Lectures of Mental Science | - | - | - |
+| Happy Sexy Millonaire | - | - | :uk: |
+| Mini habitos | - | - | - |
+| La rebelion de atlas | - | - | - |
+| La rebelion en la granja | George Orwell | - | - |
+| 1984 | George Orwell | - | - |
+| Models | - | - | :uk: |
+| Never split the difference | - | - | :uk: |
+| Die with Zero | - | - | :uk: |
+| Can't Hurt Me | - | - | :uk: |
+| Educated | - | - | :uk: |
+| How not to die alone | - | - | :uk: |
+| Traction | - | - | - |
+| It doesn't have to be crazy at work | - | - | - |
 | You too can be prosperus | - | - | - |
 | Think and grow rich | - | - | - |
 | The master key to richness | - | - | - |
 | Power of Awareness | - | - | - |
-| As a man think ** | - | - | - |
+| As a man think | - | - | - |
 | You were born rich | - | - | - |
-| The Edinburg Lectures of Mental Science | - | - | - |
-| You ^ 2 ** | - | - | - |
 | The Science of Getting Rich | - | - | - |
 | Competing Against Luck | - | - | - |
 | Jobs to Be Done Playbook | - | - | - |
 | El mundo de sofia | - | - | - |
 | Fenomenologia del Espiritu | - | - | - |
 | Competing Against Luck | - | - | - |
-| The 10x Rule | - | - | - |
 | El Patron Bitcoin | - | - | - |
 | Tu poder invisible | - | - | - |
-| La rebelion de atlas | - | - | - |
 | This book will save your time | - | - | - |
-| Orwell: La rebelion en la granja | - | - | - |
 | The righteous mind | - | - | - |
 | Token economy | - | - | - |
 | How to talk to anyone | - | - | - |
@@ -48,7 +51,6 @@
 | Options as a Strategic Investment | - | - | - |
 | Man is search for meaning | - | - | - |
 | Valuation | - | - | - |
-| 1984 | - | - | - |
 | Blue Ocean Strategy | - | - | - |
 | Finances Services Evolution | - | - | - |
 | The Productivity Project | - | - | - |
@@ -72,6 +74,7 @@
 | Agile Contracts | Andreas Opelt | Agile | :uk: |
 | Reframe | Mona Patel | Creativity | :uk: |
 | Peopleware | - | Productivity | :uk: |
+| Siddartha | - | - | :uk: |
 | Nomad Capitalist | - | Business | :uk: |
 | Lean UX | - | UX | :uk: |
 | Overwhelmed: Work, Love, and Play When No One Has the Time | - | Productivity | :uk: |
@@ -102,9 +105,9 @@
 | Scientific Advertising | Claude C Hoppkins | - | :uk: |
 | Mastery | Robert Greene | - | :uk: |
 | I will teach you to be rich | Ramit Sethi | - | :uk: |
-| Doulos Oukon | - | - | :uk: |
+| Doulos Oukon | - | Philosophy | :uk: |
 | El Síndrome de Mozart | - | - | :uk: |
-| El Arte de Masterizar | - | - | :uk: |
+| El Arte de Masterizar | - | Music | :uk: |
 | Lateral Thinking | Edward De Bono | - | :uk: |
 | Mismatch: How Inclusion Shapes Design | Kat Holmes | - | :uk: |
 | Lost and Founder: A Painfully Honest Field Guide to the Startup World | Rand Fishkin | - | :uk: |
@@ -115,14 +118,16 @@
 | Technically Wrong | Sara Wachter-Boettcher | - | :uk: |
 | The Power of Habit | Charles Duhigg | - | :uk: |
 | Sapiens | Yuval Harari | - | :uk: |
+| El Hombre en Busca de Sentido | Viktor Frankl | - | :uk: |
+| Tratados Morales | Séneca | - | :uk: |
 | Creative Quest | Questlove | - | :uk: |
 | The Timeless Way of Building | Christopher Alexander | - | :uk: |
 | The Future of the Mind | Michio Kaku | - | :uk: |
 | Super Sad True Love Story | Gary Shteyngart | - | :uk: |
 | The Diamond Cutter: The Buddha on Managing Your Business and Your Life | Michael Roach | - | :uk: |
-| Duck Tape Marketing | John Jantsch | - | :uk: |
-| The Referral Engine | John Jantsch | - | :uk: |
-| The Commitment Engine | John Jantsch | - | :uk: |
+| Duck Tape Marketing | John Jantsch | Business | :uk: |
+| The Referral Engine | John Jantsch | Business | :uk: |
+| The Commitment Engine | John Jantsch | Business | :uk: |
 | Traction | - | - | :uk: |
 | The Magic of Thinking Big | David Schwartz | - | :uk: |
 | The Purple Cow | Seth Godin | - | :uk: |
@@ -138,8 +143,6 @@
 | Hábitos Atómicos | James Clear | - | :uk: |
 | The Coach's Casebook: Mastering The Twelve Traits That Trap Us | - | - | :uk: |
 | La Patología de la Normalidad | Erich Fromm | - | :uk: |
-| El Hombre en Busca de Sentido | Viktor Frankl | - | :uk: |
-| Tratados Morales | Séneca | - | :uk: |
 | Un Nuevo Mundo, Ahora | Eckhart Tolle | - | :uk: |
 | Amar lo que es | Byron Katie | - | :uk: |
 | La Libertad Primera y Última | Krishnamurti | - | :uk: |
