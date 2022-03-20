@@ -75,5 +75,14 @@ Ronye
 * [Parenting](topics/misc/PARENTING.md)
 * [Digital Nomads / Remote Work](topics/misc/DIGITAL_NOMADS.md)
 
-## Books
-Comming soon :rocket:
+## Books :books:
+
+### Now reading :open_book:
+
+| Title | Author | Category | Language |
+| --- | --- | --- | --- |
+| Unconditional Parenting | Alfie Kohn | Psychology | :uk: |
+
+---
+* [Books I Want to Read](books/PENDING.md)
+* [Books I've read](books/DONE.md)
