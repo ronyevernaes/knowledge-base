@@ -2,8 +2,10 @@
 
 Registered (more or less) in the order I read them. More titles to be registered, (I don't remember all the books I've read).
 
-| Title | Author | Category | Language | Year Read |
+| Title | Author | Category | Language | Reading Year |
 | --- | --- | --- | --- | --- |
+| The 10x Rule | Grant Cardone | Business | :uk: | 2022 |
+| Unconditional Parenting | Alfie Kohn | Psychology | :uk: | 2022 |
 | Happy Money | Ken Honda | Personal Development | :uk: | 2022 |
 | Game Theory 101 ' The Complete Textbook | William Spaniel | Science | :uk: | 2022 |
 | Platform | Cynthia Johnson | Business | :uk: | 2021 |
@@ -25,4 +27,4 @@ Registered (more or less) in the order I read them. More titles to be registered
 | El Señor de los Anillos - El Retorno del Rey | J.R.R. Tolkien | Epic Fantasy | :es: | - |
 | El Señor de los Anillos - Las Dos Torres | J.R.R. Tolkien | Epic Fantasy | :es: | - |
 | El Señor de los Anillos - La Comunidad del Anillo | J.R.R. Tolkien | Epic Fantasy | :es: | - |
-| La Divina Comedia | Dante
+| La Divina Comedia | Dante | Classics | :es: | - |

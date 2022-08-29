@@ -81,8 +81,7 @@ Ronye
 
 | Title | Author | Category | Language |
 | --- | --- | --- | --- |
-| Unconditional Parenting | Alfie Kohn | Psychology | :uk: |
-
+| goodbye, things | Fumio Sasaki | Personal Development | :uk: |
 ---
 * [Books I Want to Read](books/PENDING.md)
 * [Books I've read](books/DONE.md)

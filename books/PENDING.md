@@ -4,7 +4,6 @@ These are the books I'm planning to read, sorted by most probably to be read in 
 
 | Title | Author | Category | Language |
 | --- | --- | --- | --- |
-| The 10x Rule | - | - | :en: |
 | El patron Bitcoin | - | - | :es: |
 | You ^ 2 ** | - | - | - |
 | Four Thousands Weeks | - | - | :uk: |
