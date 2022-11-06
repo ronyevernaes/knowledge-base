@@ -4,6 +4,7 @@ Registered (more or less) in the order I read them. More titles to be registered
 
 | Title | Author | Category | Language | Reading Year |
 | --- | --- | --- | --- | --- |
+| goodbye, things | Fumio Sasaki | Personal Development | :uk: | 2022 |
 | The 10x Rule | Grant Cardone | Business | :uk: | 2022 |
 | Unconditional Parenting | Alfie Kohn | Psychology | :uk: | 2022 |
 | Happy Money | Ken Honda | Personal Development | :uk: | 2022 |
@@ -16,7 +17,7 @@ Registered (more or less) in the order I read them. More titles to be registered
 | Tribes | Seth Godin | Business | :uk: | 2020 |
 | Startup, Scaleup, Screwup | Jurgen Appelo | Business | :uk: | 2020 |
 | Get Momentum | Jason & Jodi Womack | Productivity | :uk: | 2020 |
-| Clean Code | Robert C. Martin | Computer Science | :uk: | 2020 |
+| Clean Code | Robert C. Martin | Software Engineering | :uk: | 2020 |
 | Blitzscaling | Reid-Hoffman, Chris-Yeh, Bill-Gates | Business | :uk: | 2020 |
 | The Lean Startup | Eric Ries | Business | :uk: | 2020 |
 | Burndown: A Better Way To Build Products | David Cancel, Matt Bilotti, Erik Devaney | Product Development | :uk: | 2020 |

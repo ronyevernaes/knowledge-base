@@ -81,7 +81,7 @@ Ronye
 
 | Title | Author | Category | Language |
 | --- | --- | --- | --- |
-| goodbye, things | Fumio Sasaki | Personal Development | :uk: |
+| Cracking the Coding Interview | Gayle Laakmann McDowell | Software Engineering | :uk: |
 ---
 * [Books I Want to Read](books/PENDING.md)
 * [Books I've read](books/DONE.md)
