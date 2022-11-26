@@ -66,4 +66,6 @@
 - [ ] [A Primer on Learning Theories](https://sites.google.com/uci.edu/shayan-doroudi/blog/learning-theories)
 - [ ] [Projection bias: how your “emotional temperature” impacts your decisions](https://nesslabs.com/projection-bias)
 - [ ] [Building a latticework of mental models with ModelThinkers](https://nesslabs.com/modelthinkers-featured-tool)
+- [ ] [The art and science of abstract thinking](https://nesslabs.com/abstract-thinking)
+- [ ] [Attentional bias: the invisible puppeteer behind our decisions](https://nesslabs.com/attentional-bias)
 - [ ] []()
