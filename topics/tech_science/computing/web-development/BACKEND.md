@@ -22,4 +22,5 @@
 - [ ] [15 Fun APIs For Your Next Project](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053)
 - [ ] [Everything You Need to Know to Get Started with Microservices](https://dev.to/microtica/everything-you-need-to-know-to-get-started-with-microservices-5243)
 - [ ] [GraphQL Recipes - Building APIs with GraphQL Transform](https://dev.to/open-graphql/graphql-recipes-building-apis-with-graphql-transform-3jp0)
+- [ ] [HTTP Request Methods – Get vs Put vs Post Explained with Code Examples](https://www.freecodecamp.org/news/http-request-methods-explained/)
 - [ ] []()

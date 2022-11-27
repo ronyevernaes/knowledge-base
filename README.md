@@ -82,6 +82,7 @@ Ronye
 | Title | Author | Category | Language |
 | --- | --- | --- | --- |
 | Cracking the Coding Interview | Gayle Laakmann McDowell | Software Engineering | :uk: |
+| The Almanack of Naval Ravikant | Eric Jorgenson | Life Style | :uk: |
 ---
 * [Books I Want to Read](books/PENDING.md)
 * [Books I've read](books/DONE.md)
