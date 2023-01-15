@@ -75,6 +75,7 @@ Ronye
 * [Parenting](topics/misc/PARENTING.md)
 * [Digital Nomads / Remote Work](topics/misc/DIGITAL_NOMADS.md)
 
+
 ## Books :books:
 
 ### Now reading :open_book:
@@ -86,3 +87,9 @@ Ronye
 ---
 * [Books I Want to Read](books/PENDING.md)
 * [Books I've read](books/DONE.md)
+
+
+## Communities and Subscriptions
+| Name | Category | Language |
+| [Farnam Street](https://fs.blog/) | Productivity | :uk: |
+| --- | --- | --- |

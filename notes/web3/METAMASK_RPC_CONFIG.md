@@ -10,3 +10,4 @@
 | Harmony Mainnet | https://api.harmony.one<br/>https://s1.api.harmony.one<br/>https://s2.api.harmony.one<br/>https://s3.api.harmony.one<br/> | 1666600000<br/>1666600001<br/>1666600002<br/>1666600003<br/> | ONE | https://explorer.harmony.one/ |
 | Moonbeam | https://rpc.api.moonbeam.network | 1284 | GLMR | https://blockscout.moonbeam.network/ |
 | Emerald Mainnet | https://emerald.oasis.dev | 42262 | ROSE | https://explorer.emerald.oasis.dev/ |
+| Arbitrum Mainnet | https://arb1.arbitrum.io/rpc | 42161 | ETH | https://arbiscan.io/ |
