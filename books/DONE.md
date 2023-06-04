@@ -4,6 +4,8 @@ Registered (more or less) in the order I read them. More titles to be registered
 
 | Title | Author | Category | Language | Reading Year |
 | --- | --- | --- | --- | --- |
+| Good to Great | James C. Collins | Business | :uk: | 2023 |
+| The Almanack of Naval Ravikant | Eric Jorgenson | Life Style | :uk: | 2022 |
 | goodbye, things | Fumio Sasaki | Personal Development | :uk: | 2022 |
 | The 10x Rule | Grant Cardone | Business | :uk: | 2022 |
 | Unconditional Parenting | Alfie Kohn | Psychology | :uk: | 2022 |
@@ -21,7 +23,6 @@ Registered (more or less) in the order I read them. More titles to be registered
 | Blitzscaling | Reid-Hoffman, Chris-Yeh, Bill-Gates | Business | :uk: | 2020 |
 | The Lean Startup | Eric Ries | Business | :uk: | 2020 |
 | Burndown: A Better Way To Build Products | David Cancel, Matt Bilotti, Erik Devaney | Product Development | :uk: | 2020 |
-| La Metamorfosis | Fraz Kafka | Literature | :es: | 2017 |
 | La Metamorfosis | Fraz Kafka | Literature | :es: | 2017 |
 | Los cuatro acuerdos | - | - | - | - |
 | How to Win Friends and Influence People | Dale Carnegie | Personal Development | :es: | - |
